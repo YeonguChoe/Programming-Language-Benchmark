@@ -1,0 +1,9 @@
+**/.vscode/
+**/.zig-cache/
+**/C_program
+**/CPP_program
+**/main.class
+**/Go_program
+**/Rust_program
+**/Zig_program
+**/zig-out/
