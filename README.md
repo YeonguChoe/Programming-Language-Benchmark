@@ -13,7 +13,7 @@
 | Zig                  | zig         |
 
 - Algorithm
-  - Time compleixty: $O(n^4 * n!)$
+  - Time compleixty: $O(n^4 \cdot n!)$
 
   ```python
   def main(n):
