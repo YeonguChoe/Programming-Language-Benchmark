@@ -12,7 +12,7 @@
 | Rust                 | rustc       |
 | Zig                  | zig         |
 
-- Algorithm
+- Algorithm used.
   - Time compleixty: $O(n^4 \cdot n!)$
 
   ```python
