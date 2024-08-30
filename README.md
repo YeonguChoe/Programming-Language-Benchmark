@@ -11,8 +11,10 @@
 | C#                   | dotnet      |
 | Go                   | go          |
 | Kotlin               | kotlinc     |
+| Swift                | swift       |
 | Rust                 | rustc       |
 | Zig                  | zig         |
+
 
 - Algorithm used.
   - Time compleixty: $O(n^4 \cdot n!)$
