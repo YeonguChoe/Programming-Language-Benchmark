@@ -7,3 +7,5 @@
 **/Rust_program
 **/Zig_program
 **/zig-out/
+**/.build
+**/bin
