@@ -1,10 +1,7 @@
-/**
- * Production compile command
- * kotlinc main.kt -include-runtime -d main.jar
- * java -jar main.jar 100
- */
+// Production compile command
+// kotlinc main.kt -include-runtime -d main.jar
+// java -jar main.jar 100
 
- 
 import kotlin.system.measureTimeMillis
 
 fun factorial(num: Long): Long {
@@ -24,11 +21,13 @@ fun main(args: Array<String>) {
         return
     }
 
-    val iteration = args[0].toLongOrNull() ?: run {
-        println("Invalid iteration count.")
-        return
-    }
-    
+    val iteration =
+            args[0].toLongOrNull()
+                    ?: run {
+                        println("Invalid iteration count.")
+                        return
+                    }
+
     val factorialInput = 20L
     var count = 0L
     val finalValue = (iteration - 2) * (iteration - 2) * (iteration - 2) * (iteration - 2)

@@ -25,4 +25,4 @@
   ```
 
 ## Result
-- Runtime speed: C > C++ > Zig > Rust > Swift > Java > C# > Go
+- Runtime speed: C > C++ > Zig > Rust > Swift >> Kotlin > Java > C# > Go
