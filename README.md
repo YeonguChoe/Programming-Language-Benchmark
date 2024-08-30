@@ -1,7 +1,8 @@
 # Programming Language Benchmark
 - Tester: Yeongu Choe
 - Enviroment
-|Programming Language|Environment|
+
+
 | Programming Language | Environment |
 | -------------------- | ----------- |
 | C                    | clang       |
