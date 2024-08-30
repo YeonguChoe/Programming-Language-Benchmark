@@ -8,7 +8,6 @@
 #include <ctime>
 #include <string>
 
-// 팩토리얼을 계산하는 함수
 unsigned long long int factorial(unsigned long long int num)
 {
     if (num == 0 || num == 1)
@@ -47,10 +46,7 @@ int main(int argc, char *argv[])
     unsigned long long int final_value = (iteration - 2) * (iteration - 2) * (iteration - 2) * (iteration - 2);
     unsigned long long int count = 0;
 
-    // count가 final_value에 도달할 때를 확인하기 위한 변수
-    bool found = false;
-
-    // 시간 측정을 시작
+    // Start timer
     std::clock_t start = std::clock();
     for (int i = 2; i < iteration; i++)
     {
@@ -61,12 +57,8 @@ int main(int argc, char *argv[])
                 for (int m = 2; m < iteration; m++)
                 {
 
-                    // factorial 함수를 호출하여 결과를 계산
                     unsigned long long result = factorial(factorial_input);
-
                     count += 1;
-
-                    // count가 final_value와 같은지 확인
                     if (count == final_value)
                     {
                         std::cout << "==================================================" << std::endl;
@@ -77,16 +69,14 @@ int main(int argc, char *argv[])
         }
     }
 
-    // 시간 측정을 끝냄
+    // End timer
     std::clock_t end = std::clock();
 
     std::cout << "Expected count:" << final_value << std::endl;
     std::cout << "==================================================" << std::endl;
 
-    // 계산 시간
     double elapsed_time = (double)(end - start) / CLOCKS_PER_SEC;
 
-    // 결과 출력
     printf("C++ Runtime: %f seconds\n", elapsed_time);
     std::cout << "==================================================" << std::endl;
 
