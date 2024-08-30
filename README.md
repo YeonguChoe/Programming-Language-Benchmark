@@ -8,7 +8,9 @@
 | C                    | clang       |
 | C++                  | clang++     |
 | Java                 | openjdk     |
+| C#                   | dotnet      |
 | Go                   | go          |
+| Kotlin               | kotlinc     |
 | Rust                 | rustc       |
 | Zig                  | zig         |
 
