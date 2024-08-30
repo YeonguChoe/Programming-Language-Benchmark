@@ -10,3 +10,4 @@
 **/.build
 **/bin
 Programming-Language-Benchmark.generated.sln
+**/main.jar

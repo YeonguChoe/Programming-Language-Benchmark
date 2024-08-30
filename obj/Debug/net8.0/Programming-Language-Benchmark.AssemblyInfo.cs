@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Programming-Language-Benchmark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecb5f382cfd252a33ccb41a608a51f9ca736e67d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4cc0a06da1ba123d4942eef0fcaed35664c204")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programming-Language-Benchmark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programming-Language-Benchmark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
