@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yeonguchoe/Desktop/CSharp/CSharp.csproj": {}
+    "/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/CSharp.csproj": {}
   },
   "projects": {
-    "/Users/yeonguchoe/Desktop/CSharp/CSharp.csproj": {
+    "/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yeonguchoe/Desktop/CSharp/CSharp.csproj",
+        "projectUniqueName": "/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "/Users/yeonguchoe/Desktop/CSharp/CSharp.csproj",
+        "projectPath": "/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/CSharp.csproj",
         "packagesPath": "/Users/yeonguchoe/.nuget/packages/",
-        "outputPath": "/Users/yeonguchoe/Desktop/CSharp/obj/",
+        "outputPath": "/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yeonguchoe/.nuget/NuGet/NuGet.Config"

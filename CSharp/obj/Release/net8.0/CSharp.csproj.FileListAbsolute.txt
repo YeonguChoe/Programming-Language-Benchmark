@@ -1,0 +1,15 @@
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/bin/Release/net8.0/CSharp
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/bin/Release/net8.0/CSharp.deps.json
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/bin/Release/net8.0/CSharp.runtimeconfig.json
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/bin/Release/net8.0/CSharp.dll
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/bin/Release/net8.0/CSharp.pdb
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.AssemblyInfoInputs.cache
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.AssemblyInfo.cs
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.sourcelink.json
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.dll
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/refint/CSharp.dll
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.pdb
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/CSharp.genruntimeconfig.cache
+/Users/yeonguchoe/Desktop/Programming-Language-Benchmark/CSharp/obj/Release/net8.0/ref/CSharp.dll

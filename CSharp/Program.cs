@@ -1,7 +1,7 @@
 ﻿/**
  * Production compile command
  * dotnet build -c Release
- * ./bin/Release/net8.0/Programming-Language-Benchmark 10
+ * ./CSharp/bin/Release/net8.0/CSharp 100
  */
 
 using System;
