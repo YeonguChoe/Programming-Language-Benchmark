@@ -14,7 +14,8 @@
 | Swift                | swift       |
 | Rust                 | rustc       |
 | Zig                  | zig         |
-
+| Python               | python3     |
+| Node.js              | node        |
 
 - Algorithm used.
   - Time compleixty: $O(n^4 \cdot n!)$
@@ -29,4 +30,4 @@
   ```
 
 ## Result
-- Runtime speed: C > C++ > Zig > Rust > Swift >> Kotlin > Java > C# > Go
+- Runtime speed: C > C++ > Zig > Rust > Swift >> Kotlin > Java > C# > Go > Node.js >>> Python 3

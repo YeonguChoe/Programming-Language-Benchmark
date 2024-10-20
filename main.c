@@ -2,6 +2,7 @@
  * Production compile command
  * clang -O3 -g0 -o C_program main.c
  * gcc -O3 -o C_program main.c
+ * ./C_program 100
  */
 
 #include <stdio.h>

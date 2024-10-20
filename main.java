@@ -1,7 +1,7 @@
 /**
  * Production compile command
  * javac main.java
- * java main
+ * java main 100
  */
 
 // There is no unsigned data type in Java

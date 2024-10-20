@@ -1,7 +1,7 @@
 /**
  * Production compile command
  * go build -o Go_program main.go
- * ./Go_program
+ * ./Go_program 100
  */
 
 package main

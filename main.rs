@@ -1,6 +1,7 @@
 /**
  * Production compile command
  * rustc -C opt-level=3 -C debuginfo=0 main.rs -o Rust_program
+ * ./Rust_program 100
  */
 
 // Biggest data type: u128
