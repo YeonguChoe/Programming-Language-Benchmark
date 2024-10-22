@@ -18,7 +18,7 @@
 | Node.js              | node        |
 
 - Algorithm used.
-  - Time compleixty: $O(n^4 \cdot n!)$
+  - Time compleixty: $O({n!}^4)$
 
   ```python
   def main(n):
